@@ -1,1 +1,1 @@
-_ [x] Sprint 1
+- [x] Sprint 1
