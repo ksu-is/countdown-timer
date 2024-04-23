@@ -22,4 +22,5 @@
 - [x] Finalize your code
 
 # Sprint 3
+
 - [x] Create powerpoint for your project
