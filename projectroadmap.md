@@ -12,10 +12,11 @@
 - [x] Find a Related code base in python and evaluate it
 
 # Sprint 2
+
 - [x] Create a .py file for the repository to build code
-      
+
 - [x] Begin writing code and make the application window
-      
+
 - [x] Update you project daily making small commits each time
 
-- [x] Finalize your code 
+- [x] Finalize your code
