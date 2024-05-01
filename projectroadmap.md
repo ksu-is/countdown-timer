@@ -24,3 +24,7 @@
 # Sprint 3
 
 - [x] Create powerpoint for your project
+
+- [x] Prepare to do final presentation for your code answering all the questions.
+
+
